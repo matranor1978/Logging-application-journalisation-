@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfEntree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entree>
+    <Categorie>autres</Categorie>
+    <MotsCle>
+      <string>enfants</string>
+    </MotsCle>
+    <Dates>2015-07-21T13:23:05.6522763-04:00</Dates>
+    <Description>Sortie à la plage Jean-Drapeau et la Ronde</Description>
+  </Entree>
+  <Entree>
+    <Categorie>art</Categorie>
+    <MotsCle>
+      <string>amis</string>
+      <string>collègues</string>
+    </MotsCle>
+    <Dates>2015-07-21T13:25:32.0045243-04:00</Dates>
+    <Description>Visite de la musée de montréal</Description>
+  </Entree>
+  <Entree>
+    <Categorie>art</Categorie>
+    <MotsCle>
+      <string>amis</string>
+    </MotsCle>
+    <Dates>2015-08-20T13:42:30.6734554-04:00</Dates>
+    <Description>ggggg</Description>
+  </Entree>
+</ArrayOfEntree>

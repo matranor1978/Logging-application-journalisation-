@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ArrayOfEntree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entree>
+    <Categorie>desjardins</Categorie>
+    <MotsCle>
+      <string>retrait</string>
+      <string>paiement</string>
+    </MotsCle>
+    <Dates>2015-07-21T13:14:46.8245249-04:00</Dates>
+    <Description>Retrait de 200$ pour faire des commissions pour la semaine du 19 juillet et payer l'abonnement cellulaire</Description>
+  </Entree>
+  <Entree>
+    <Categorie>bnc</Categorie>
+    <MotsCle>
+      <string>placement</string>
+    </MotsCle>
+    <Dates>2015-07-21T17:35:47.9528599-04:00</Dates>
+    <Description>J'ai placé 2500 dans mon Céli numero 5243689.</Description>
+  </Entree>
+  <Entree>
+    <Categorie>rbc</Categorie>
+    <MotsCle>
+      <string>dépôt</string>
+      <string>paiement</string>
+    </MotsCle>
+    <Dates>2015-07-21T17:45:37.8175733-04:00</Dates>
+    <Description>J'ai fait un dépôt de 1500$ et payer ma carte de crédit au même montant</Description>
+  </Entree>
+  <Entree>
+    <Categorie>desjardins</Categorie>
+    <MotsCle>
+      <string>paiement</string>
+    </MotsCle>
+    <Dates>2015-08-19T14:07:10.6570478-04:00</Dates>
+    <Description>J'ai payé toutes mes factures du mois</Description>
+  </Entree>
+  <Entree>
+    <Categorie>bnc</Categorie>
+    <MotsCle>
+      <string>placement</string>
+    </MotsCle>
+    <Dates>2015-08-20T13:45:24.9946186-04:00</Dates>
+    <Description>656565</Description>
+  </Entree>
+  <Entree>
+    <Categorie>desjardins</Categorie>
+    <MotsCle>
+      <string>paiement</string>
+    </MotsCle>
+    <Dates>2015-08-20T13:46:38.8607959-04:00</Dates>
+    <Description>CECI EST UN TEST</Description>
+  </Entree>
+</ArrayOfEntree>

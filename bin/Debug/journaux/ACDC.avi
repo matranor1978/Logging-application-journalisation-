@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfEntree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entree>
+    <Categorie>Musique</Categorie>
+    <MotsCle>
+      <string>audio</string>
+    </MotsCle>
+    <Dates>2015-08-20T18:00:32.2252954-04:00</Dates>
+    <Description>Concert de ACDC Aujourdhui a 18.30</Description>
+  </Entree>
+  <Entree>
+    <Categorie>Movies</Categorie>
+    <MotsCle>
+      <string>video</string>
+    </MotsCle>
+    <Dates>2015-08-20T18:01:11.6153646-04:00</Dates>
+    <Description>Voir film Dragon Ball Z a 22.00</Description>
+  </Entree>
+</ArrayOfEntree>

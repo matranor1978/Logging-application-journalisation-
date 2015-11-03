@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<ArrayOfType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Type>
+    <Extension>for</Extension>
+    <MotsCle>
+      <string>tp1</string>
+      <string>tp2</string>
+      <string>ex1</string>
+      <string>ex2</string>
+      <string>examen final</string>
+    </MotsCle>
+    <Categories>
+      <string>php</string>
+      <string>vb</string>
+      <string>java</string>
+      <string>html &amp; css</string>
+      <string>bases de données</string>
+      <string>systèmes d'exploitation</string>
+    </Categories>
+  </Type>
+  <Type>
+    <Extension>bnk</Extension>
+    <MotsCle>
+      <string>retrait</string>
+      <string>dépôt</string>
+      <string>paiement</string>
+      <string>placement</string>
+    </MotsCle>
+    <Categories>
+      <string>td</string>
+      <string>bnc</string>
+      <string>desjardins</string>
+      <string>rbc</string>
+    </Categories>
+  </Type>
+  <Type>
+    <Extension>act</Extension>
+    <MotsCle>
+      <string>enfants</string>
+      <string>amis</string>
+      <string>collègues</string>
+    </MotsCle>
+    <Categories>
+      <string>sport</string>
+      <string>art</string>
+      <string>autres</string>
+    </Categories>
+  </Type>
+  <Type>
+    <Extension>avi</Extension>
+    <MotsCle>
+      <string>video</string>
+      <string>audio</string>
+    </MotsCle>
+    <Categories>
+      <string>Musique</string>
+      <string>Movies</string>
+    </Categories>
+  </Type>
+</ArrayOfType>
